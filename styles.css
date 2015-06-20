@@ -1,0 +1,102 @@
+body {
+	color: gray;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+header {
+	text-align: center;
+	background: #21BACF;
+	color: white;
+	background:url("http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/beautiful-blue-sea-beach-anna-omelchenko.jpg");
+	background-size: cover;
+}
+
+header img{
+
+	border: 3px solid: #fff;
+	border-radius:50%;
+	padding:10px;
+
+}
+
+a {
+	color: #CC99FF;
+}
+
+h2 {
+	color: #66CCFF;
+	font-size: 48px;
+}
+
+img {
+	border: 6px dashed #6699FF;
+}
+
+#about {
+	background: #B870FF;
+	color: black;
+}
+
+.about {
+
+	background: blue;
+}
+
+.links h2{
+
+	font-family:'Quicksand', sans-serif;
+	color: pink;
+
+}
+
+.padded {
+
+	padding: 10px 30px;
+}
+
+.contact{
+
+	text-align: center;
+	color:#FFF;
+	background: url(images/dark_embroidery.png);
+	background-repeat: repeat;
+
+}
+
+.contact h2 {
+	color: #FFF;
+
+}
+.contact img {
+	width: 100px;
+	margin: 10px;
+	border-radius: 50%;
+	border: none;
+
+}
+
+.contact img:hover{
+	opacity: .5;
+
+}
+
+ul.websites li{
+
+	list-style:none;
+	display: inline-block;
+}
+
+.websites a{
+	background: #FF9999;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	border-radius:5px;
+	font-size: 24;
+	display: block;
+}
+
+.websites a:hover{
+	background: #666;
+}
